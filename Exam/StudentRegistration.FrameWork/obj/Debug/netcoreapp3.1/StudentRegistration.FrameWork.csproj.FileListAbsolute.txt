@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Exam\StudentRegistration.FrameWork\obj\Debug\netcoreapp3.1\StudentRegistration.FrameWork.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Exam\StudentRegistration.FrameWork\obj\Debug\netcoreapp3.1\StudentRegistration.FrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Exam\StudentRegistration.FrameWork\obj\Debug\netcoreapp3.1\StudentRegistration.FrameWork.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Exam\StudentRegistration.FrameWork\obj\Debug\netcoreapp3.1\StudentRegistration.FrameWork.AssemblyInfo.cs

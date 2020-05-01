@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Exam\Exam\obj\Debug\netcoreapp3.1\Exam.AssemblyInfo.cs

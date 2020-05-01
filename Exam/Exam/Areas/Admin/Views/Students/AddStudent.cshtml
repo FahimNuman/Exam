@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "AddStudent";
+    Layout = "~/Areas/Admin/Views/Students/AddStudent.cshtml";
+}
+
+<h1>AddStudent</h1>
+
+<div class="card-body">
+    <form action="/admin/Students/AddStudent" method="post">
+        <input type="text" name="Name" />
+        <input type="text" name="Username" />
+        <input type="text" name="Email" />
+        <input type="submit" value="Add Student" />
+    </form>
+</div>

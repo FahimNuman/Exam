@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\bin\Debug\netcoreapp3.1\StudentRegistration.Data.deps.json
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\bin\Debug\netcoreapp3.1\StudentRegistration.Data.dll
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\bin\Debug\netcoreapp3.1\StudentRegistration.Data.pdb
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\obj\Debug\netcoreapp3.1\StudentRegistration.Data.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\obj\Debug\netcoreapp3.1\StudentRegistration.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\obj\Debug\netcoreapp3.1\StudentRegistration.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\obj\Debug\netcoreapp3.1\StudentRegistration.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\obj\Debug\netcoreapp3.1\StudentRegistration.Data.dll
+C:\Users\Admin\Desktop\Exam\StudentRegistration.Data\obj\Debug\netcoreapp3.1\StudentRegistration.Data.pdb
